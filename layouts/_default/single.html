@@ -1,0 +1,12 @@
+{{ define "main" }}
+    {{ .Content }}
+    <button onclick="readText()">Read Aloud</button>
+{{ end }}
+
+{{ define "navigation" }}
+    <p><a href="/contact/" class="nav-link">Contact Me</a></p>
+{{ end }}
+
+{{ define "scripts" }}
+    <script src="/js/text-to-speech.js"></script>
+{{ end }}

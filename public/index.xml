@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Tucson Travel</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Tucson Travel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Get in touch with us for more information about Tucson travel!&#xA;Email: your.email@example.com Phone: (123) 456-7890&#xA;Or use the form below:&#xA;[Contact form will go here]</description>
+    </item>
+    <item>
+      <title>Welcome to Tucson</title>
+      <link>http://localhost:1313/tucson/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tucson/</guid>
+      <description>Discover the magic of Tucson, Arizona! Nestled in the Sonoran Desert, Tucson offers a unique blend of natural beauty, rich history, and vibrant culture. From the stunning Saguaro National Park to the charming adobe architecture of the downtown area, Tucson is a destination that captivates visitors with its diverse attractions and year-round sunshine.</description>
+    </item>
+  </channel>
+</rss>
